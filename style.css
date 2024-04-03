@@ -1,0 +1,29 @@
+* {
+margin: 0;
+padding: 0;
+}
+.cabecalho{
+    background-color: #555c83;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px
+}
+.escola-imagem{
+    width:25%;
+}
+.escola{
+    background-image: linear-gradient(#1a214b,#6d2421);
+color: white;
+display:flex;
+}
+.escola-conteudo{
+    width: 35%;
+    }
+    body{
+        font-family:’Poppins’,sans-serif;
+        }
